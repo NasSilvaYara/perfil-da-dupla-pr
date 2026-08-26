@@ -1,2 +1,3 @@
-# Projeto da Dupla em Branches
 
+# Projeto da Dupla em Branches
+# Perfil Compartilhado do Time
